@@ -1,0 +1,9 @@
+section {
+    height: 100vh;
+    background: rgb(240, 234, 234);
+    padding-top: 200px;
+}
+form {
+    margin: 0 auto;
+    width: 400px;
+}
